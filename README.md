@@ -1,4 +1,4 @@
-
+![WoWScrnShot](https://user-images.githubusercontent.com/28191088/179052474-b1b06897-cc0d-41e4-91cc-996707265f1f.jpg)
 
 [TinyPad WoTLK](https://github.com/Makcumoz/TinyPad-WoTLK) - это аддон-блокнот версии [2.1.0](https://www.curseforge.com/wow/addons/tinypad/files/all?filter-game-version=2020709689%3A586), позаимствованный у [Gello](https://www.curseforge.com/members/gello3/followers0) и Kader. Скачанный с [https://www.curseforge.com](https://www.curseforge.com/wow/addons/tinypad/files/all?filter-game-version=2020709689%3A586), переведенный и адаптированный под [WoTLK 3.3.5](https://ru.wikipedia.org/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King), поскольку на www.curseforge.com для WoTLK аддона уже нет в раздачи. Из отличий от оригинала это перевод и адаптация для WoTLK.
 
@@ -25,3 +25,4 @@
 ПС: Из-за не богатого опыта с LUA возможны какие-то ошибки, просьба отписаться если что-то найдете, желательно еще и с подсказкой как это устранить. 
 
 ПСС: По поводу версии аддона. Прошу не путать с [2.1.0](https://www.curseforge.com/wow/addons/tinypad/files/all?filter-game-version=2020709689%3A589) и выше, они написаны изначально для более поздних версий игры. От себя добавлю еще одну цифру в код версии, что бы не путаться.
+
